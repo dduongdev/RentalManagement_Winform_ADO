@@ -1,0 +1,12 @@
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\bin\Debug\RentalManagement.exe.config
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\bin\Debug\RentalManagement.exe
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\bin\Debug\RentalManagement.pdb
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.csproj.AssemblyReference.cache
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.ContractManagementForm.resources
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.HomeManagementForm.resources
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.IndexForm.resources
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.Properties.Resources.resources
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.csproj.GenerateResource.cache
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.csproj.CoreCompileInputs.cache
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.exe
+D:\CSharpWorkspace\MainSources\RentalManagement\RentalManagement\obj\Debug\RentalManagement.pdb
